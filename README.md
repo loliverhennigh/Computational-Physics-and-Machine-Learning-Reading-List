@@ -1,12 +1,12 @@
 # Computational-Physics-and-Machine-Learning-Reading-List
 
-A list of papers relating Computational Physics and Machine Learning.
+A list of papers relating Computational Physics and Machine Learning. This list is by no means complete so if there are other resources that you feel are missing either send me a link to loliverhennigh101@gmail.com or do a pull request.
 
 # Computational Fluid Dynamics
 
 ## Papers
 
-[Accelerating Eulerian Fluid Simulation With Convolutional Networks](https://arxiv.org/pdf/1607.03597.pdf)
+[Accelerating Eulerian Fluid Simulation With Convolutional Networks](https://arxiv.org/pdf/1607.03597.pdf) [Paper Notes](notes/Accelerating-Eulerian-Fluid-Simulation-With-Convolutional-Networks.md)
 
 [Lat-Net: Compressing Lattice Boltzmann Flow Simulations using Deep Neural Networks](https://arxiv.org/pdf/1705.09036.pdf)
 
@@ -23,6 +23,8 @@ A list of papers relating Computational Physics and Machine Learning.
 [CFD + Machine learning for super fast simulations](https://www.reddit.com/r/CFD/comments/5n91uz/cfd_machine_learning_for_super_fast_simulations/?st=j6iayhgh&sh=da62f296)
 
 [Use of machine learning in computational fluid dynamics](https://scicomp.stackexchange.com/questions/20644/use-of-machine-learning-in-computational-fluid-dynamics)
+
+## Code
 
 # Quantum Mechanics
 
