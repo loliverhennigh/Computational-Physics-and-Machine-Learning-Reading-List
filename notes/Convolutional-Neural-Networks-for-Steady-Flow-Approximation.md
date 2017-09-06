@@ -7,7 +7,7 @@ In this paper the authors use neural networks to predict steady state fluid flow
 
 - The idea of this paper is quite nice and I feel that a similar approach could be applied to a wide variety of physics simulations. For example, you could compute the stresses in an object given its geometry and some forces on it.
 
-- This paper is somewhat old and the neural network architeture has not aged well. In the bellow implementation of the paper I use a fully convolutional network and find that better performace can be had. This paper also uses the signed distance function as input to the network. By using an all Conv network this als seems to eleminate the need for this.
+- This paper is somewhat old and the neural network architecture has not aged well. In the bellow implementation of the paper I use a fully convolutional network and find that better performance can be had. This paper also uses the signed distance function as input to the network. By using an all Conv network this seems to eliminate the need for this.
 
 ## Source Code
 

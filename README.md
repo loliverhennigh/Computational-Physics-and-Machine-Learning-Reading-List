@@ -11,11 +11,11 @@ A list of papers relating Computational Physics and Machine Learning. This list 
 [Lat-Net: Compressing Lattice Boltzmann Flow Simulations using Deep Neural Networks](https://arxiv.org/pdf/1705.09036.pdf) ( [Paper Notes](notes/Lat-Net:-Compressing-Lattice-Boltzmann-Flow-Simulations-using-Deep-Neural-Networks.md) )
 
 
-[Convolutional Neural Networks for Steady Flow Approximation](https://autodeskresearch.com/publications/convolutional-neural-networks-steady-flow-approximation) ( [Paper Notes](Convolutional-Neural-Networks-for-Steady-Flow-Approximation.md) )
+[Convolutional Neural Networks for Steady Flow Approximation](https://autodeskresearch.com/publications/convolutional-neural-networks-steady-flow-approximation) ( [Paper Notes](notes/Convolutional-Neural-Networks-for-Steady-Flow-Approximation.md) )
 
 [Data-driven projection method in fluid simulation](http://onlinelibrary.wiley.com/doi/10.1002/cav.1695/full)
 
-[Deep Learning for Flow Sculpting: Insights into Efficient Learning using Scientific Simulation Data](https://www.nature.com/articles/srep46368) ( [Paper Notes](Deep-Learning-for-Flow-Sculpting:-Insights-into-Efficient-Learning-using-Scientific-Simulation-Data.md) )
+[Deep Learning for Flow Sculpting: Insights into Efficient Learning using Scientific Simulation Data](https://www.nature.com/articles/srep46368) ( [Paper Notes](notes/Deep-Learning-for-Flow-Sculpting:-Insights-into-Efficient-Learning-using-Scientific-Simulation-Data.md) )
 
 
 ## Online Discussions
@@ -26,19 +26,16 @@ A list of papers relating Computational Physics and Machine Learning. This list 
 
 [Use of machine learning in computational fluid dynamics](https://scicomp.stackexchange.com/questions/20644/use-of-machine-learning-in-computational-fluid-dynamics)
 
-## Code
-
 # Quantum Mechanics
 
 ## Papers
 
-[Solving the quantum many-body problem with artificial neural networks](http://science.sciencemag.org/content/355/6325/602)
-
+[Deep learning and the Schr¨odinger equation](https://arxiv.org/pdf/1703.01361.pdf) ( [Paper Notes](notes/Deep-learning-and-the-Schrodinger-equation.md) )
 
 # Neuclear Physics /  High Energy Physics
 
 ## Papers
 
-[CaloGAN: Simulating 3D High Energy Particle Showers in Multi-Layer Electromagnetic Calorimeters with Generative Adversarial Networks](https://arxiv.org/abs/1705.02355)
+[CaloGAN: Simulating 3D High Energy Particle Showers in Multi-Layer Electromagnetic Calorimeters with Generative Adversarial Networks](https://arxiv.org/abs/1705.02355) ( [Paper Notes](notes/CaloGAN:-Simulating-3D-High-Energy-Particle-Showers-in-Multi-Layer-Electromagnetic-Calorimeters-with-Generative-Adversarial-Networks.md) )
 
 
