@@ -32,7 +32,7 @@ A list of papers relating Computational Physics and Machine Learning. This list 
 
 [Deep learning and the Schr¨odinger equation](https://arxiv.org/pdf/1703.01361.pdf) ( [Paper Notes](notes/Deep-learning-and-the-Schrodinger-equation.md) )
 
-# Neuclear Physics /  High Energy Physics
+# Nuclear Physics /  High Energy Physics
 
 ## Papers
 
