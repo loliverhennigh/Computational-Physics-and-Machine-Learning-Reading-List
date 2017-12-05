@@ -17,6 +17,19 @@ A list of papers relating Computational Physics and Machine Learning. This list 
 
 [Deep Learning for Flow Sculpting: Insights into Efficient Learning using Scientific Simulation Data](https://www.nature.com/articles/srep46368) ( [Paper Notes](notes/Deep-Learning-for-Flow-Sculpting:-Insights-into-Efficient-Learning-using-Scientific-Simulation-Data.md) )
 
+[Deep Learning Fluid Mechanics](http://meetings.aps.org/Meeting/DFD17/Session/E31.4)
+
+[Deep Learning in Fluid Mechanics](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/deep-learning-in-fluid-dynamics/F2EDDAB89563DE5157FC4B8342AD9C70)
+
+[Reynolds averaged turbulence modelling using deep neural networks with embedded invariance](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/reynolds-averaged-turbulence-modelling-using-deep-neural-networks-with-embedded-invariance/0B280EEE89C74A7BF651C422F8FBD1EB)
+
+[Deep Learning the Physics of Transport Phenomena](https://arxiv.org/abs/1709.02432)
+
+[A unified deep artificial neural network approach to partial differential equations in complex geometries](https://arxiv.org/pdf/1711.06464.pdf)
+
+[Solving parametric PDE problems with artificial neural networks](https://arxiv.org/pdf/1707.03351.pdf)
+
+
 
 ## Online Discussions
 
