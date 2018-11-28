@@ -29,7 +29,7 @@ A list of papers relating Computational Physics and Machine Learning. This list 
 
 [Solving parametric PDE problems with artificial neural networks](https://arxiv.org/pdf/1707.03351.pdf)
 
-
+[Machine learning the kinematics of spherical particles in fluid flows](http://sandlab.mit.edu/Papers/18_JFM.pdf)
 
 ## Online Discussions
 
@@ -51,4 +51,12 @@ A list of papers relating Computational Physics and Machine Learning. This list 
 
 [CaloGAN: Simulating 3D High Energy Particle Showers in Multi-Layer Electromagnetic Calorimeters with Generative Adversarial Networks](https://arxiv.org/abs/1705.02355) ( [Paper Notes](notes/CaloGAN:-Simulating-3D-High-Energy-Particle-Showers-in-Multi-Layer-Electromagnetic-Calorimeters-with-Generative-Adversarial-Networks.md) )
 
+# Dynamical System
 
+## Papers
+
+[Deep learning algorithm for data-driven simulation of noisy dynamical system](https://arxiv.org/abs/1802.08323)
+
+[Data-assisted reduced-order modeling of extreme events in complex dynamical systems](https://arxiv.org/abs/1803.03365)
+
+[Machine-learning inference of fluid variables from data using reservoir computing](https://arxiv.org/abs/1805.09917)
